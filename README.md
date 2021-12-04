@@ -1,2 +1,2 @@
-# DiscordRHobot
+# DiscordRhobot
 A Node Discord bot
